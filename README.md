@@ -49,7 +49,7 @@ streamlit run web.py
 适合快速调试或服务器后台运行。在终端中运行以下命令：
 
 ```bash
-python main.py
+python cli_main.py
 ```
 *根据命令行提示选择模型配置，输入 `quit` 退出，输入 `reset` 重置对话。*
 
